@@ -1,2 +1,4 @@
 .idea/
 scala-trial.iml
+/src/Trial.sc
+out/
